@@ -1,0 +1,105 @@
+Most Mods Herein use the MIT or GNU Licenses, others use custom licenses which request appropriate Credit and Links back to the home or curse page.
+
+Please Contact Count von Dan deLion#1608 or Trazyn the Infinite#8665 on Discord with any issues you encounter before engaging any Mod Dev,
+it's more than likely our fault anyway.
+Also please be aware the modpack team does not support Windows 10 systems with less than 8GB of RAM, This Modpack is not confirmed stable below this spec.
+
+Please See Below the List of Mods/Library's and their respective Credit and links:
+
+###Mod###					        ###Developed by/Owned By###			###Link###
+Abyssal Craft			      	  Shinoow								          https://minecraft.curseforge.com/projects/abyssalcraft
+Abyssal Craft           	  Integration	Shinoow							https://minecraft.curseforge.com/projects/abyssalcraft-integration
+Animus						      	  TeamDman, Saerethlb					    https://minecraft.curseforge.com/projects/animus
+Applied Energistics		  	  AlgorithmX2							        https://ae-mod.info/
+AE2 Stuff					      	  Bdew								            https://minecraft.curseforge.com/projects/ae2stuff?gameCategorySlug=mc-mods&projectID=225194
+BackPack					       		Eydamos								          https://minecraft.curseforge.com/projects/forge-backpacks
+Basic Nether Ores		     		cScotPlay							          https://minecraft.curseforge.com/projects/basic-nether-ores
+Baubles						      	  Azanor								          https://minecraft.curseforge.com/projects/baubles
+BdLib					          		bdew							              https://minecraft.curseforge.com/projects/bdlib?gameCategorySlug=mc-mods&projectID=70496
+Bear With Me				      	MrTrollNugNug 						      https://minecraft.curseforge.com/projects/bear-with-me
+Bewitchment				      		Sunconure11							        https://minecraft.curseforge.com/projects/bewitchment
+Binnies Mods				      	Binnie567							          https://minecraft.curseforge.com/projects/binnies-mods
+Biomes O' Plenty		     		Glitchfiend						         	https://minecraft.curseforge.com/projects/biomes-o-plenty
+Blood Magic					      	WayofTime							          https://minecraft.curseforge.com/projects/blood-magic
+Blood Arsenal				      	Arcaratus							          https://minecraft.curseforge.com/projects/blood-arsenal?gameCategorySlug=mc-mods&projectID=228823
+Botania						      	  Vazkii								          https://botaniamod.net/license.php
+Brandon's Core			     		brandon3055						          https://minecraft.curseforge.com/projects/brandons-core?gameCategorySlug=mc-mods&projectID=231382
+Chicken ASM					    	  Chicken_Bones						        http://chickenbones.net/Pages/links.html
+Chicken Core			      		Chicken_Bones						        http://chickenbones.net/Pages/links.html
+CodeChickenLib				   	 	Chicken_Bones					          http://chickenbones.net/Pages/links.html
+CoFH Core				        		Team CoFH							          http://teamcofh.com/permissions/
+CoFH World					     	 	Team CoFH							          http://teamcofh.com/permissions/
+Computer Craft				   	 	Dan200													http://computercraft.info
+Connected Textures Mod			tterrag1098											https://minecraft.curseforge.com/projects/ctm
+Draconic Evolution			  	brandon3055											https://minecraft.curseforge.com/projects/draconic-evolution
+DummyCore					        	Modbder													https://minecraft.curseforge.com/projects/dummycore
+Dynmap											mikeprimm												https://dev.bukkit.org/projects/dynmap
+Embers Rekindled						BordListian											https://minecraft.curseforge.com/projects/embers-rekindled
+EnderCore										tterrag1098											https://minecraft.curseforge.com/projects/endercore?gameCategorySlug=mc-mods&projectID=231868
+EnderIO											CrazyPants											https://minecraft.curseforge.com/projects/ender-io							
+Energy Converters						xalcon													https://minecraft.curseforge.com/projects/energy-converters?gameCategorySlug=mc-mods&projectID=254818
+Ender Storage								Chicken_Bones										http://chickenbones.net/Pages/links.html
+Extra Utilities	2						RWTema													https://minecraft.curseforge.com/projects/extra-utilities
+Fast Leaf Decay							Olafski													https://minecraft.curseforge.com/projects/fast-leaf-decay
+Forestry										SirSengir												https://forestryforminecraft.info
+Forgelin (Shadowfact's)			Shadowfactsmc										https://minecraft.curseforge.com/projects/shadowfacts-forgelin
+ForgeMultipart							Chicken_Bones										http://chickenbones.net/Pages/links.html
+Guide-API										TehNut													https://minecraft.curseforge.com/projects/guide-api?gameCategorySlug=mc-mods&projectID=228832
+Hwyla												TehNut													https://minecraft.curseforge.com/projects/hwyla?gameCategorySlug=mc-mods&projectID=253449
+Immersive Engineering				BluSunrize											https://minecraft.curseforge.com/projects/immersive-engineering
+Immersive Petroleum					Flaxbeard												https://minecraft.curseforge.com/projects/immersive-petroleum?gameCategorySlug=mc-mods&projectID=268250
+Industrialcraft 2						Alblaka													https://www.industrial-craft.net/
+Industrial Foregoing				Buzz135													https://minecraft.curseforge.com/projects/industrial-foregoing
+Industrial Meat							Abused Master										https://minecraft.curseforge.com/projects/industrial-meat
+Infernal Mobs								AtomicStryker										http://atomicstryker.net/about.php
+integration Forgoing				Jackyy													https://minecraft.curseforge.com/projects/integration-foregoing
+Inventory Tweaks						Kobata													https://minecraft.curseforge.com/projects/inventory-tweaks
+InstantUnify								KidsDontPlay										https://minecraft.curseforge.com/projects/instantunify
+Iron Chest									Progwml6												https://minecraft.curseforge.com/projects/iron-chests
+IVToolkit										Ivorius													https://minecraft.curseforge.com/projects/ivtoolkit
+JEI													Mezz														https://minecraft.curseforge.com/projects/jei
+JEI Bees										bdew														https://minecraft.curseforge.com/projects/jei-bees?gameCategorySlug=mc-mods&projectID=248370
+Just Enough Petroleum				BordListian											https://minecraft.curseforge.com/projects/just-enough-petroleum?gameCategorySlug=mc-mods&projectID=291727
+Just Enough Resources				Way2muchnoise										https://minecraft.curseforge.com/projects/just-enough-resources-jer?gameCategorySlug=mc-mods&projectID=240630
+Llibrary										iLexiconn												https://minecraft.curseforge.com/projects/llibrary?gameCategorySlug=mc-mods&projectID=243298
+Magic Bees									MysteriousAges									https://minecraft.curseforge.com/projects/magic-bees
+MalisisCore									Ordinastie											https://minecraft.curseforge.com/projects/malisiscore?gameCategorySlug=mc-mods&projectID=223896
+MalisisDoors								Ordinastie											https://minecraft.curseforge.com/projects/malisisdoors?gameCategorySlug=mc-mods&projectID=223891
+Mantle											mDiyo														https://minecraft.curseforge.com/projects/mantle
+Matter Overdrive						HRZNStudio											https://minecraft.curseforge.com/projects/matteroverdrive
+Mekanism										AidencBrady											http://wiki.aidancbrady.com/wiki/Mekanism
+Modular Forcefield System		nekosune												https://minecraft.curseforge.com/projects/modular-forcefield-system?gameCategorySlug=mc-mods&projectID=59882
+Morpheus										Quetzi													https://minecraft.curseforge.com/projects/morpheus?gameCategorySlug=mc-mods&projectID=69118
+Natura											mDiyo														https://minecraft.curseforge.com/projects/natura?gameCategorySlug=mc-mods&projectID=74120
+NEI													Chicken_Bones										http://chickenbones.net/Pages/links.html
+Nuclearcraft								tomdodd4598											https://minecraft.curseforge.com/projects/nuclearcraft-mod?gameCategorySlug=mc-mods&projectID=226254
+OpenBlocks									OpenMods												https://minecraft.curseforge.com/projects/openblocks?gameCategorySlug=mc-mods&projectID=228816
+OpenModsLib									OpenMods												https://minecraft.curseforge.com/projects/openmodslib?gameCategorySlug=mc-mods&projectID=228815				
+Oreberries									josephcsible										https://minecraft.curseforge.com/projects/oreberries?gameCategorySlug=mc-mods&projectID=275408
+Patchouli										Vazkii													https://minecraft.curseforge.com/projects/patchouli
+PlusTiC											Landmaster_phuong0429						https://minecraft.curseforge.com/projects/plustic
+Progressive Boxes						tikkadatla											https://minecraft.curseforge.com/projects/progressive-boxes?gameCategorySlug=mc-mods&projectID=295419
+Railcraft										Railcraft Team									http://railcraft.info/wiki/, railcraft.info, http://railcraft.info/wiki/info:license
+RebornCore									modmuss50												https://minecraft.curseforge.com/projects/reborncore
+Recurrent Complex						Ivorius													https://minecraft.curseforge.com/projects/recurrent-complex?gameCategorySlug=mc-mods&projectID=223150
+RedstoneFlux								Team CoFH												http://teamcofh.com/permissions/
+Reforged										ThexXTURBOXx										https://minecraft.curseforge.com/projects/reforged?gameCategorySlug=mc-mods&projectID=241392
+SGCraft											AlphaShadowhawk									https://minecraft.curseforge.com/projects/un-official-port-of-sg-craft
+Stellar API									abab9579												https://minecraft.curseforge.com/projects/stellar-api
+Steve's Carts Reborn				modmuss50												https://minecraft.curseforge.com/projects/steves-carts-reborn
+Thermal Mod-Series					Team CoFH												http://teamcofh.com/permissions/
+Tinkers Construct						Mdiyo														https://minecraft.curseforge.com/projects/tinkers-construct
+Tesla Core									Face_of_Cat											https://minecraft.curseforge.com/projects/tesla-core-lib
+Thaumcraft									Azanor													https://minecraft.curseforge.com/projects/thaumcraft
+Thermal Solars							JoltEffect											https://minecraft.curseforge.com/projects/thermal-solars?gameCategorySlug=mc-mods&projectID=257381
+TiffitLib										tikkadatla											https://minecraft.curseforge.com/projects/tiffitlib?gameCategorySlug=mc-mods&projectID=295414
+Tinker's Tool Leveling			boni														https://minecraft.curseforge.com/projects/tinkers-tool-leveling?gameCategorySlug=mc-mods&projectID=250957
+Twilight Forestry						Benimatic												https://minecraft.curseforge.com/projects/the-twilight-forest?gameCategorySlug=mc-mods&projectID=227639
+UniDict											WanionCane											https://minecraft.curseforge.com/projects/unidict?gameCategorySlug=mc-mods&projectID=244258
+Waila Harvestability				squeek502												https://minecraft.curseforge.com/projects/waila-harvestability?gameCategorySlug=mc-mods&projectID=79287
+WanionLib										WanionCane											https://minecraft.curseforge.com/projects/wanionlib?gameCategorySlug=mc-mods&projectID=253043
+Wawla												Darkhax													https://minecraft.curseforge.com/projects/wawla-what-are-we-looking-at?gameCategorySlug=mc-mods&projectID=224712
+Wireless Redstone						Chicken_Bones										http://chickenbones.net/Pages/links.html
+
+
+(This document is included in the modpack files and the Technic Platform Permissions Page - Please do-not remove this file)
